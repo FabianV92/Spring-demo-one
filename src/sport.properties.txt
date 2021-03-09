@@ -1,0 +1,2 @@
+team.email=teamX@hotmail.com
+team.teamName=teamX
